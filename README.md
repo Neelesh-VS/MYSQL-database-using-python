@@ -6,3 +6,5 @@ connect with MYSQL.
 Create database and tables.
 
 Generating random data and inserting into table.
+
+Table generation.
